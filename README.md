@@ -62,12 +62,33 @@ ld -m elf_i386 main.o -o bus_reservation
 
 ```
 
-### **Updated Projects Table**
-You should definitely add this to your main GitHub profile table. Assembly projects are very rare and highly respected by recruiters!
+Here is the updated **Consolidated Projects Table**, including your new Assembly project and your clean links. You can copy this entire block directly into your **GitHub Profile README** or your **Portfolio site**.
+
+### **🚀 My Technical Projects**
 
 | Project Name | Description | Tech Stack | Repository Link |
-| :--- | :--- | :--- | :--- |
-| **🚌 Assembly Bus System** | Low-level ticket reservation system using x86 Assembly and Linux Syscalls. | Assembly (x86), NASM | [View Repo](https://github.com/MuhammadNoman3405/Faisal-Bus-Reservation-in-Assembly) |
+| --- | --- | --- | --- |
+| **🛡️ Ai-Job-Guardian** | ML model (NLP) to detect fraudulent job postings with high precision. | Python, Scikit-learn, Streamlit | [View Repo](https://github.com/MuhammadNoman3405/Ai-Job-Guardian) |
+| **🚌 Assembly Bus System** | Low-level ticket reservation system using **x86 Assembly** and Linux Syscalls. | Assembly (x86), NASM | [View Repo](https://github.com/MuhammadNoman3405/Faisal-Bus-Reservation-in-Assembly) |
+| **✈️ Travel Management** | C++ CLI system for flight bookings using **Doubly Linked Lists**. | C++, DSA (DLL), File Handling | [View Repo](https://github.com/MuhammadNoman3405/DSA-Project-In-C-) |
+| **🏦 Bank Management** | A CLI system for managing banking transactions, accounts, and user data. | C++, Structs, Arrays | [View Repo](https://github.com/MuhammadNoman3405/Bank-Management-System-In-C-) |
+| **🍎 Fruit & Age App** | Interactive Streamlit dashboard with **live currency conversion**. | Python, Pandas, Streamlit | [View Repo](https://github.com/MuhammadNoman3405/Streamlit) |
 
-**Noman, since you're comfortable with Assembly, would you like me to show you how to add a "Search Passenger" function to this code?**
+---
+
+### **🔗 Connect with Me**
+
+* **Portfolio Website:** [Explore My Projects](https://my-portfolio-website-six-ashen.vercel.app)
+* **LinkedIn:** [Muhammad Noman](https://www.linkedin.com/in/muhammad-noman-a219712b0/)
+
+---
+
+### **🎓 Academic Excellence**
+
+* **University:** BS Computer Science, **UET Taxila** (5th Semester)
+* **Academic Record:** **4.0/4.0 SGPA**
+* **Interests:** Data Science, Machine Learning, Low-level Programming, and Algorithms.
+
+---
+
 
