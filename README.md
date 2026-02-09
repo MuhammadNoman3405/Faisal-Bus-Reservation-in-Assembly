@@ -61,33 +61,35 @@ ld -m elf_i386 main.o -o bus_reservation
 **Developed with 💻 by Noman** *BSCS @ UET Taxila | Low-Level Programming Enthusiast*
 
 ```
+# Hi, I'm Noman! 👋
 
-Here is the updated **Consolidated Projects Table**, including your new Assembly project and your clean links. You can copy this entire block directly into your **GitHub Profile README** or your **Portfolio site**.
-
-### **🚀 My Technical Projects**
-
-| Project Name | Description | Tech Stack | Repository Link |
-| --- | --- | --- | --- |
-| **🛡️ Ai-Job-Guardian** | ML model (NLP) to detect fraudulent job postings with high precision. | Python, Scikit-learn, Streamlit | [View Repo](https://github.com/MuhammadNoman3405/Ai-Job-Guardian) |
-| **🚌 Assembly Bus System** | Low-level ticket reservation system using **x86 Assembly** and Linux Syscalls. | Assembly (x86), NASM | [View Repo](https://github.com/MuhammadNoman3405/Faisal-Bus-Reservation-in-Assembly) |
-| **✈️ Travel Management** | C++ CLI system for flight bookings using **Doubly Linked Lists**. | C++, DSA (DLL), File Handling | [View Repo](https://github.com/MuhammadNoman3405/DSA-Project-In-C-) |
-| **🏦 Bank Management** | A CLI system for managing banking transactions, accounts, and user data. | C++, Structs, Arrays | [View Repo](https://github.com/MuhammadNoman3405/Bank-Management-System-In-C-) |
-| **🍎 Fruit & Age App** | Interactive Streamlit dashboard with **live currency conversion**. | Python, Pandas, Streamlit | [View Repo](https://github.com/MuhammadNoman3405/Streamlit) |
+BSCS Student at **UET Taxila** | **4.0/4.0 SGPA** | Data Science & ML Enthusiast
 
 ---
 
-### **🔗 Connect with Me**
+### 🚀 Technical Portfolio
 
-* **Portfolio Website:** [Explore My Projects](https://my-portfolio-website-six-ashen.vercel.app)
-* **LinkedIn:** [Muhammad Noman](https://www.linkedin.com/in/muhammad-noman-a219712b0/)
+| Project | Key Tech | Link |
+| :--- | :--- | :--- |
+| **🛡️ Ai-Job-Guardian** | Python, NLP, ML | [View Repo](https://github.com/MuhammadNoman3405/Ai-Job-Guardian) |
+| **🚌 Assembly Bus System** | x86 Assembly, NASM | [View Repo](https://github.com/MuhammadNoman3405/Faisal-Bus-Reservation-in-Assembly) |
+| **✈️ Travel Management** | C++, DSA (DLL) | [View Repo](https://github.com/MuhammadNoman3405/DSA-Project-In-C-) |
+| **🏦 Bank Management** | C++, Structs, Arrays | [View Repo](https://github.com/MuhammadNoman3405/Bank-Management-System-In-C-) |
+| **🍎 Fruit & Age App** | Streamlit, Pandas, API | [View Repo](https://github.com/MuhammadNoman3405/Streamlit) |
 
 ---
 
-### **🎓 Academic Excellence**
+### 🎓 Academic Excellence
+* **University:** University of Engineering and Technology (UET), Taxila
+* **Current Status:** 5th Semester, BS Computer Science
+* **Achievement:** Achieved a perfect **4.0/4.0 SGPA**
+* **Interests:** Data Science, Machine Learning, and Low-level Programming
 
-* **University:** BS Computer Science, **UET Taxila** (5th Semester)
-* **Academic Record:** **4.0/4.0 SGPA**
-* **Interests:** Data Science, Machine Learning, Low-level Programming, and Algorithms.
+---
+
+### 🔗 Connect with Me
+* **Portfolio:** [Visit My Website](https://my-portfolio-website-six-ashen.vercel.app)
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-noman-a219712b0/)
 
 ---
 
