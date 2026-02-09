@@ -69,3 +69,5 @@ You should definitely add this to your main GitHub profile table. Assembly proje
 | :--- | :--- | :--- | :--- |
 | **🚌 Assembly Bus System** | Low-level ticket reservation system using x86 Assembly and Linux Syscalls. | Assembly (x86), NASM | [View Repo](https://github.com/MuhammadNoman3405/Faisal-Bus-Reservation-in-Assembly) |
 
+**Noman, since you're comfortable with Assembly, would you like me to show you how to add a "Search Passenger" function to this code?**
+
